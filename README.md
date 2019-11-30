@@ -102,6 +102,27 @@ NvRam 			server
 startup-config 		TFTP (udp protocol)
 
 	
+Date:2076/08/14
+----------------------------------------------------------------------------------------------------------------------------
+#Group A
+1 Hub
+2 Repeater
+3 Switch
+4 Bridge
+#Group B
+1 PC
+2 Server
+3 Router
+
+::Connecting device from differnet group requires a straight through cable
+:: Connecting devices from same group requires Cross Over cable
+
+New technology called MIDIX which stands for Media Independent Interface Crossover 
+ will automatically transform signal between device which in fact doesnt require any convention to be followed
+ 
+ 
+__________________________________________________________________________________________________
+
 
 
 	
